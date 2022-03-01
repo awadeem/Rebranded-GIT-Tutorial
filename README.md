@@ -19,5 +19,13 @@ To be able to use GitHub, you will have to create an account first. You can do t
 <img src="https://raw.githubusercontent.com/awadeem/Rebranded-GIT-Tutorial/1acf39bf0bf926f5b6ba340f8f08a639fda2d37a/Screen%20Shot%202022-03-01%20at%204.51.51%20PM.png" 
      width="400" 
      height="300" />
+ 
+ This form is the first thing that appears if you enter the website without being logged in
+ 
+ You need to inform GitHub which plan you want to use. Choose the free option. The only difference is that you can setup private repositories with the paid plan.
+ 
+ <img src= "https://raw.githubusercontent.com/awadeem/Rebranded-GIT-Tutorial/main/Screen%20Shot%202022-03-01%20at%205.10.58%20PM.png"
+     width="500" 
+     height="400" />
      
      

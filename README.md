@@ -14,4 +14,10 @@ GitHub is a web-based Git repository hosting service, which offers all of the di
 
 
 ## Creating an account on GitHub
-To be able to use GitHub, you will have to create an account first. You can do that on their [GitHub Website](https://github.com) and fillout the main form.![alt text](https://raw.githubusercontent.com/awadeem/Rebranded-GIT-Tutorial/d3aba45137988c8a8178ab7398cd08d598f2eed3/sc.png "Main Form")
+To be able to use GitHub, you will have to create an account first. You can do that on their [GitHub Website](https://github.com) and fillout the main form.
+
+<img src="https://raw.githubusercontent.com/awadeem/Rebranded-GIT-Tutorial/1acf39bf0bf926f5b6ba340f8f08a639fda2d37a/Screen%20Shot%202022-03-01%20at%204.51.51%20PM.png" 
+     width="400" 
+     height="300" />
+     
+     

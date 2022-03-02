@@ -49,7 +49,8 @@ Follow these steps to create a new repository on GitHub:
      
  4. You can create a README, which is a document describing your projec.
 5. Click Create repository.
-   <img src="https://raw.githubusercontent.com/awadeem/Rebranded-GIT-Tutorial/853b73bd38266a650b60fc780a20a2008309d01d/Screen%20Shot%202022-03-02%20at%209.32.50%20AM.png" 
+  
+  <img src="https://raw.githubusercontent.com/awadeem/Rebranded-GIT-Tutorial/853b73bd38266a650b60fc780a20a2008309d01d/Screen%20Shot%202022-03-02%20at%209.32.50%20AM.png" 
      width="400" 
-     height="300" />"   
+     height="250" />"   
      

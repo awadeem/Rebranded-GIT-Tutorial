@@ -177,6 +177,15 @@ The simple command to PULL from a branch is:
  
      git stash list
  
+ 3.**Delete Stash Changes**
+ 
+ If you want to remove changes without applying them, run the command:
+ 
+     git stash drop STASH-NAME
+ 
+ To clear the entire stash run command:
+ 
+     git stash clear
  
  ## How to Fork?
  

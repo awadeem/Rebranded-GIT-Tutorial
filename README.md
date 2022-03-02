@@ -2,7 +2,9 @@
 # Git and GitHub Tutorial
 
 ## What is GIT?
-Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+Git is the most commonly used version control system. Git tracks the changes you make to files, so you have a record of what has been done, and you can revert to specific versions should you ever need to. Git also makes collaboration easier, allowing changes by multiple people to all be merged into one source. 
+
+So regardless of whether you write code that only you will see, or work as part of a team, Git will be useful for you.
 
 
 ## What is GitHub?

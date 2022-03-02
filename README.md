@@ -148,11 +148,16 @@ HTTPS is a secure version of HTTP that encrypts data sent between the client and
  
  ## How to Push?
   The git push  command is used to transfer or push the commit, which is made on a local branch in your computer to a remote repository.
- 1. Use **git add .** in your terminal to add all the files.
+ 1. Use ** git add .**in your terminal to add all the files.
  2. Use **git commit -m "your message"** which adds the changes to the local repository.
  3. **git push -u origin master** is used for pushing local content to remote.
  
- ## How to Pull
+ ## How to Pull?
+ If you make a change in a repository, GIT PULL can allow others to view the changes. It is used to acknowledge the change that you've made to the repository that you're working on. Or also called a target repository.
+ 
+The simple command to PULL from a branch is:
+
+ **git pull 'remote_name' 'branch_name'**
  
  
 

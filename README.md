@@ -148,7 +148,7 @@ HTTPS is a secure version of HTTP that encrypts data sent between the client and
  
  ## How to Push?
   The git push  command is used to transfer or push the commit, which is made on a local branch in your computer to a remote repository.
- 1. Use **git add .**in your terminal to add all the files.
+ 1. Use **git add .** in your terminal to add all the files.
  2. Use **git commit -m "your message"** which adds the changes to the local repository.
  3. **git push -u origin master** is used for pushing local content to remote.
  
@@ -159,6 +159,12 @@ The simple command to PULL from a branch is:
 
  **git pull 'remote_name' 'branch_name'**
  
+ ## How to Stash?
+ To apply your changes to your repository, you must save the files and then commit the changes to a branch. If you have saved changes that you are not ready to commit yet, you can stash the changes for later. When you stash changes, the changes are temporarily removed from the files and you can choose to restore or discard the changes later.
+ 
+ ## How to Fork?
+ 
+ ## How to Rebase?
  
 
 

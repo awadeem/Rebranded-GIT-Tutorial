@@ -98,7 +98,7 @@ HTTPS is a secure version of HTTP that encrypts data sent between the client and
      width="450" 
      height="200" /> 
 
-## Commands for Branching and merging
+## Commands for Branching,Merging and Deleting 
 1. **Creating a local branch**
 
    $ git checkout -b branchname

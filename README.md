@@ -33,7 +33,7 @@ To be able to use GitHub, you will have to create an account first. You can do t
      width="500" 
      height="400" />
      
- ## GitHub Repository
+ ## Creating a GitHub Repository
 A Git repository tracks and saves the history of all changes made to the files in a Git project. It saves this data in a directory called .git, also known as the repository folder.
 
 Follow these steps to create a new repository on GitHub:

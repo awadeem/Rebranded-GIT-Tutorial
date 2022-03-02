@@ -28,4 +28,13 @@ To be able to use GitHub, you will have to create an account first. You can do t
      width="500" 
      height="400" />
      
+ ## GitHub Repository
+GitHub allows you to keep track of your code when you're working with a team and need to modify the project's code collaboratively.
+
+Follow these steps to create a new repository on GitHub:
+
+1.  Log in and browse to the GitHub home page.
+2. Find the New repository option under the + sign next to your profile picture, in the top right corner. 
+3.  Enter a name for your repository, provide a brief description, and choose a privacy setting.
+     
      

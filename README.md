@@ -73,11 +73,29 @@ HTTPS is a secure version of HTTP that encrypts data sent between the client and
  
    ## Clone a Repository
 1. On GitHub.com, navigate to the main page of the repository.
-2. Above the list of files, click **Code**.   
+2. Above the list of files, click **Code**.  
+<img src="https://raw.githubusercontent.com/awadeem/Rebranded-GIT-Tutorial/df9d48c9e8601f1bb5459df1d00ca59f361ee314/Screen%20Shot%202022-03-02%20at%201.50.41%20PM.png" 
+     width="400" 
+     height="250" /> 
 3. To clone the repository using HTTPS, under "Clone with HTTPS", click . To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click Use SSH, then click .
+<img src="https://raw.githubusercontent.com/awadeem/Rebranded-GIT-Tutorial/df9d48c9e8601f1bb5459df1d00ca59f361ee314/Screen%20Shot%202022-03-02%20at%201.51.01%20PM.png" 
+     width="400" 
+     height="300" /> 
+     
+   <img src="https://raw.githubusercontent.com/awadeem/Rebranded-GIT-Tutorial/df9d48c9e8601f1bb5459df1d00ca59f361ee314/Screen%20Shot%202022-03-02%20at%201.51.32%20PM.png" 
+     width="400" 
+     height="300" /> 
 4. Open Terminal.
 5. Change the current working directory to the location where you want the cloned directory.
-6. Type git clone, and then paste the URL you copied earlier.
+6. Type git clone, and then paste the URL you copied earlier. 
+<img src="https://raw.githubusercontent.com/awadeem/Rebranded-GIT-Tutorial/df9d48c9e8601f1bb5459df1d00ca59f361ee314/Screen%20Shot%202022-03-02%20at%201.52.11%20PM.png" 
+     width="900" 
+     height="50" /> 
+
 7. Press Enter to create your local clone.
+
+<img src="https://raw.githubusercontent.com/awadeem/Rebranded-GIT-Tutorial/df9d48c9e8601f1bb5459df1d00ca59f361ee314/Screen%20Shot%202022-03-02%20at%201.52.26%20PM.png" 
+     width="450" 
+     height="200" /> 
 
      

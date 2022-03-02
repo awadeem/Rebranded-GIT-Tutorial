@@ -98,4 +98,22 @@ HTTPS is a secure version of HTTP that encrypts data sent between the client and
      width="450" 
      height="200" /> 
 
-     
+## Commands for Branching and merging
+1. **Creating a local branch**
+
+   $ git checkout -b branchname
+
+2. **Switching between 2 branches**
+   
+   $ git checkout -
+3. **Pushing local branch to remote**
+
+   $ git push -u origin branchname
+
+4. **Deleting a local branch - this won't let you delete a branch that hasn't been merged yet**
+
+   $ git branch -d branchname
+   
+ 5. **Deleting a local branch - this WILL delete a branch even if it hasn't been merged yet!**
+
+    $ git branch -D branchname

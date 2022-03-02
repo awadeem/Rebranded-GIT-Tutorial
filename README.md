@@ -16,7 +16,11 @@ GitHub is a web-based Git repository hosting service, which offers all of the di
  GitHub is a place to share software repositories and collaborate with other developers.
  
 ## Why do we used GitHub?
-
+* We can **Contribute** to open source projects.
+* It is a **Social Network** for developers.
+* We can **Track** changes across mutliple versions in our code.
+* We can **Showcase** our work to other developers and recruiters.
+* We and other developers can **Collaborate** on a single project easily.
 
 ## Creating an account on GitHub
 To be able to use GitHub, you will have to create an account first. You can do that on their [GitHub Website](https://github.com) and fillout the main form.

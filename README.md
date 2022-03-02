@@ -29,7 +29,7 @@ To be able to use GitHub, you will have to create an account first. You can do t
      height="400" />
      
  ## GitHub Repository
-GitHub allows you to keep track of your code when you're working with a team and need to modify the project's code collaboratively.
+A Git repository tracks and saves the history of all changes made to the files in a Git project. It saves this data in a directory called .git, also known as the repository folder.
 
 Follow these steps to create a new repository on GitHub:
 

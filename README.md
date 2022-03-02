@@ -34,7 +34,22 @@ GitHub allows you to keep track of your code when you're working with a team and
 Follow these steps to create a new repository on GitHub:
 
 1.  Log in and browse to the GitHub home page.
-2. Find the New repository option under the + sign next to your profile picture, in the top right corner. 
-3.  Enter a name for your repository, provide a brief description, and choose a privacy setting.
+    
+2. Find the New repository option under the + sign next to your profile picture, in the top right corner.
+
+<img src="https://raw.githubusercontent.com/awadeem/Rebranded-GIT-Tutorial/71e1947b714c26893629cff2f7c04460063b38af/Screen%20Shot%202022-03-01%20at%2011.36.25%20PM.png" 
+     width="300" 
+     height="250" />" 
+
+3.  Enter a name for your repository, provide a brief description, and choose a privacy setting. 
+
+<img src="https://raw.githubusercontent.com/awadeem/Rebranded-GIT-Tutorial/71e1947b714c26893629cff2f7c04460063b38af/Screen%20Shot%202022-03-01%20at%2011.34.31%20PM.png" 
+     width="400" 
+     height="300" />" 
      
+     4. You can create a README, which is a document describing your projec.
+5. Click Create repository.
+   <img src="https://raw.githubusercontent.com/awadeem/Rebranded-GIT-Tutorial/71e1947b714c26893629cff2f7c04460063b38af/Screen%20Shot%202022-03-01%20at%2011.34.31%20PM.png" 
+     width="400" 
+     height="300" />"   
      

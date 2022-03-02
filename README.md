@@ -191,7 +191,10 @@ The simple command to PULL from a branch is:
  A fork is a copy of repository. Forking repository allows you to freely experiment with changes without affecting the original project.
  
  1. On GitHub.com, naviagte to the repository.
- 2. In the write top corner of the page, click **Fork**.
+ 2. In the write top corner of the page, click **Fork**. 
+ <img src="https://raw.githubusercontent.com/awadeem/Rebranded-GIT-Tutorial/595262ed80a3490cd0185fcbd338548ee41d4a24/Image%20from%20iOS.jpg" 
+     width="700" 
+     height="100" /> 
  
  3. Clone your forked repository.
  

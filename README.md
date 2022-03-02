@@ -101,46 +101,47 @@ HTTPS is a secure version of HTTP that encrypts data sent between the client and
 ## Commands for Branching,Merging and Deleting 
 1. **Creating a local branch**
 
-   $ git checkout -b branchname
+       git checkout -b branchname
 
 2. **Switching between 2 branches**
    
-   $ git checkout -
+       git checkout -
 
 4. **Deleting a local branch - this won't let you delete a branch that hasn't been merged yet**
 
-   $ git branch -d branchname
+        git branch -d branchname
    
  5. **Deleting a local branch - this WILL delete a branch even if it hasn't been merged yet!**
 
-    $ git branch -D branchname
+       git branch -D branchname
+       
  6. **Remove any remote refs you have locally that have been removed from your remote (you can substitute <origin> to any remote branch)**
 
-    $ git remote prune origin
+       git remote prune origin
   
  7. **Viewing all branches, including local and remote branches**
 
-    $ git branch -a
+        git branch -a
  
  8. **Viewing all branches that have been merged into your current branch, including local and remote**
  
-    $ git branch -a --merged
+        git branch -a --merged
 
 9. **Viewing all branches that haven't been merged into your current branch, including local and remote**
 
-    $ git branch -a --no-merged
+          git branch -a --no-merged
  
  10. **Viewing local branches**
  
-    $ git branch
+         git branch
  
  11. **Viewing remote branches**
  
-    $ git branch -r
+         git branch -r
  
  12. **Rebase master branch into local branch**
  
-    $ git rebase origin/master
+          git rebase origin/master
  
  13. **Pushing local branch after rebasing master into local branch**
  
@@ -157,10 +158,25 @@ HTTPS is a secure version of HTTP that encrypts data sent between the client and
  
 The simple command to PULL from a branch is:
 
- **git pull 'remote_name' 'branch_name'**
+    git pull 'remote_name' 'branch_name'
  
- ## How to Stash?
- To apply your changes to your repository, you must save the files and then commit the changes to a branch. If you have saved changes that you are not ready to commit yet, you can stash the changes for later. When you stash changes, the changes are temporarily removed from the files and you can choose to restore or discard the changes later.
+ 
+ ## What is Stash?
+ 
+ Git has an area called the stash where you can temporarily store a snapshot of your changes without committing them to the repository. It’s separate from the working directory, the staging area, or the repository.
+
+ 1.**Stash Changes**
+    
+ To save your changes in the stash, run the command:
+    
+     git stash save "message for your self"
+ 
+ 2.**View Stashed Changes**
+ 
+  To see what is your stash, run the command:
+ 
+     git stash list
+ 
  
  ## How to Fork?
  

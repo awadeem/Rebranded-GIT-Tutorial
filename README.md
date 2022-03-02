@@ -188,6 +188,7 @@ The simple command to PULL from a branch is:
      git stash clear
  
  ## How to Fork?
+ A fork is a copy of repository. Forking repository allows you to freely experiment with changes without affecting the original project.
  
  ## How to Rebase?
  

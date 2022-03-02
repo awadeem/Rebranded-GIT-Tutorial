@@ -190,6 +190,11 @@ The simple command to PULL from a branch is:
  ## How to Fork?
  A fork is a copy of repository. Forking repository allows you to freely experiment with changes without affecting the original project.
  
+ 1. On GitHub.com, naviagte to the repository.
+ 2. In the write top corner of the page, click **Fork**.
+ 
+ 3. Clone your forked repository.
+ 
  ## How to Rebase?
  
 

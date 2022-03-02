@@ -139,10 +139,6 @@ HTTPS is a secure version of HTTP that encrypts data sent between the client and
  
          git branch -r
  
- 12. **Rebase master branch into local branch**
- 
-          git rebase origin/master
- 
  13. **Pushing local branch after rebasing master into local branch**
  
      $ git push origin +branchname
@@ -199,6 +195,12 @@ The simple command to PULL from a branch is:
  3. Clone your forked repository.
  
  ## How to Rebase?
+  
+ Git rebase is a command that allows developers to integrate changes from one branch to another.
+ 
+  To rebase master branch into local branch run command
+ 
+          git rebase origin/master
  
 
 

@@ -62,4 +62,15 @@ Follow these steps to create a new repository on GitHub:
   <img src="https://raw.githubusercontent.com/awadeem/Rebranded-GIT-Tutorial/853b73bd38266a650b60fc780a20a2008309d01d/Screen%20Shot%202022-03-02%20at%209.32.50%20AM.png" 
      width="400" 
      height="250" />"   
+  ## HTTPS and SSH URLs
+1. **HTTPS** 
+
+HTTPS is a secure version of HTTP that encrypts data sent between the client and server.
+    
+1. **SSH** 
+ 
+ SSH means "Secured Shell".It is also a secured version, where data sent between the client and server is encrypted.
+ 
+## Clone a Repository
+
      

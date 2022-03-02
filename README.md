@@ -5,6 +5,9 @@
 Git is the most commonly used version control system. Git tracks the changes you make to files, so you have a record of what has been done, and you can revert to specific versions should you ever need to. Git also makes collaboration easier, allowing changes by multiple people to all be merged into one source. 
 
 So regardless of whether you write code that only you will see, or work as part of a team, Git will be useful for you.
+ <img src="https://raw.githubusercontent.com/awadeem/Rebranded-GIT-Tutorial/c59896f0770215f85ddcbf4e9abace171730d501/Screen%20Shot%202022-03-02%20at%209.49.32%20AM.png" 
+     width="500" 
+     height="300" />
 
 
 ## What is GitHub?

@@ -86,7 +86,7 @@ HTTPS is a secure version of HTTP that encrypts data sent between the client and
      width="400" 
      height="300" /> 
 4. Open Terminal.
-5. Change the current working directory to the location where you want the cloned directory.
+5. Use cd command to change the current working directory to the location where you want the cloned directory.
 6. Type git clone, and then paste the URL you copied earlier. 
 <img src="https://raw.githubusercontent.com/awadeem/Rebranded-GIT-Tutorial/df9d48c9e8601f1bb5459df1d00ca59f361ee314/Screen%20Shot%202022-03-02%20at%201.52.11%20PM.png" 
      width="900" 
@@ -106,9 +106,6 @@ HTTPS is a secure version of HTTP that encrypts data sent between the client and
 2. **Switching between 2 branches**
    
    $ git checkout -
-3. **Pushing local branch to remote**
-
-   $ git push -u origin branchname
 
 4. **Deleting a local branch - this won't let you delete a branch that hasn't been merged yet**
 
@@ -148,6 +145,13 @@ HTTPS is a secure version of HTTP that encrypts data sent between the client and
  13. **Pushing local branch after rebasing master into local branch**
  
      $ git push origin +branchname
+ 
+ ## How to Push?
+  The git push  command is used to transfer or push the commit, which is made on a local branch in your computer to a remote repository.
+ 1. Use **git add .** in your terminal to add all the files.
+ 2. Use **git commit -m "your message"**
+ 3. **git push -u origin master** is used for pushing local content to remote.
+
 
 
 

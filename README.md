@@ -71,6 +71,13 @@ HTTPS is a secure version of HTTP that encrypts data sent between the client and
  
  SSH means "Secured Shell".It is also a secured version, where data sent between the client and server is encrypted.
  
-## Clone a Repository
+   ## Clone a Repository
+1. On GitHub.com, navigate to the main page of the repository.
+2. Above the list of files, click **Code**.   
+3. To clone the repository using HTTPS, under "Clone with HTTPS", click . To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click Use SSH, then click .
+4. Open Terminal.
+5. Change the current working directory to the location where you want the cloned directory.
+6. Type git clone, and then paste the URL you copied earlier.
+7. Press Enter to create your local clone.
 
      

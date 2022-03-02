@@ -132,4 +132,22 @@ HTTPS is a secure version of HTTP that encrypts data sent between the client and
 9. **Viewing all branches that haven't been merged into your current branch, including local and remote**
 
     $ git branch -a --no-merged
+ 
+ 10. **Viewing local branches**
+ 
+    $ git branch
+ 
+ 11. **Viewing remote branches**
+ 
+    $ git branch -r
+ 
+ 12. **Rebase master branch into local branch**
+ 
+    $ git rebase origin/master
+ 
+ 13. **Pushing local branch after rebasing master into local branch**
+ 
+     $ git push origin +branchname
+
+
 

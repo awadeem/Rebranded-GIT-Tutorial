@@ -202,6 +202,10 @@ The simple command to PULL from a branch is:
  
           git rebase origin/master
  
+ ## How to check Version?
+ 
+      git --version
+ 
 
 
 
